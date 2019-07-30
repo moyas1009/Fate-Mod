@@ -1,0 +1,12 @@
+{
+   "parent": "block/cube_all",
+   "textures": {
+       "down": "fm:blocks/altar_block_bottom",
+       "up": "fm:blocks/altar_block_top",
+       "north": "fm:blocks/altar_block",
+       "east": "fm:blocks/altar_block",
+       "south": "fm:blocks/altar_block",
+       "west": "fm:blocks/altar_block",
+       "particle": "fm:blocks/altar_block"
+   }
+}

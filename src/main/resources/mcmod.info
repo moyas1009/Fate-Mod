@@ -1,0 +1,16 @@
+[
+{
+  "modid": "fm",
+  "name": "Fate Mod",
+  "description": "A Minecraft Mod based on the Fate Series",
+  "version": "${1.0}",
+  "mcversion": "${1.12.2}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Moyas1009"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
